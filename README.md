@@ -4,7 +4,7 @@
 
 TechieCam is a Tool that can grab cam shots of targeted phone's of front camera or PC's webcam by just sending a link.
 
-## MadCam latest Version
+## TechieCam latest Version
 
 v2.0 is the latest version of TechieCam.
 
