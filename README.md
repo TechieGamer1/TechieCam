@@ -10,7 +10,7 @@ v2.0 is the latest version of TechieCam.
 
 ## How TechieCam Works ?
 
-First of all MadCam tool host a phishing site on attacker local network. This tool works on localhost, for wan access you have to use ngrok manually to take website over the internet. Now come to the main Point, attacker simply open the tool by using terminal and generate a link, when Link is generated attacker send that link to the target. If target open the link, target ip will transfer to the attacker. After Website load, the website ask for Camera access and when target give the permission the website will take cam shots one by one and send it to the Attacker.
+First of all TechieCam tool host a phishing site on attacker local network. This tool works on localhost, for wan access you have to use ngrok manually to take website over the internet. Now come to the main Point, attacker simply open the tool by using terminal and generate a link, when Link is generated attacker send that link to the target. If target open the link, target ip will transfer to the attacker. After Website load, the website ask for Camera access and when target give the permission the website will take cam shots one by one and send it to the Attacker.
 
 ## Features
 
@@ -46,7 +46,7 @@ bash installCam.sh
 bash TechieCam.sh
 ```
 
-Note : installmad.sh will automatically start MadCam after successfully installation and if you starting 2nd time then you have to type `bash madcam.sh`.
+Note : installCam.sh will automatically start TechieCam after successfully installation and if you starting 2nd time then you have to type `bash TechieCam.sh`.
 
 ## In another tab
 
